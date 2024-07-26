@@ -56,5 +56,5 @@ An XGBoost Regressor is trained and evaluated to compare its performance with ot
 In this project, we conducted a comprehensive exploratory data analysis, handled outliers, and built multiple predictive models for housing prices. The performance of each model was assessed using RMSE and R^2 score to determine their effectiveness in predicting property values.
 
 ## Acknowledgements
-Dataset: Provided by Internncraft
-Libraries: scikit-learn, XGBoost, pandas, numpy, matplotlib, seaborn
+- Dataset: Provided by Internncraft
+- Libraries: scikit-learn, XGBoost, pandas, numpy, matplotlib, seaborn
